@@ -2,3 +2,6 @@
 
 
 ## • Zustand
+
+
+## • IAP (In App Purchase)
